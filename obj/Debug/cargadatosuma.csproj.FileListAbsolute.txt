@@ -1,0 +1,19 @@
+C:\Users\Lester\Documents\Proyectos\carga datos uma\cargadatosuma\bin\Debug\cargadatosuma.exe.config
+C:\Users\Lester\Documents\Proyectos\carga datos uma\cargadatosuma\bin\Debug\cargadatosuma.exe
+C:\Users\Lester\Documents\Proyectos\carga datos uma\cargadatosuma\bin\Debug\cargadatosuma.pdb
+C:\Users\Lester\Documents\Proyectos\carga datos uma\cargadatosuma\obj\Debug\cargadatosuma.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Documents\Proyectos\carga datos uma\cargadatosuma\obj\Debug\cargadatosuma.frmCargarEstudiante.resources
+C:\Users\Lester\Documents\Proyectos\carga datos uma\cargadatosuma\obj\Debug\cargadatosuma.Properties.Resources.resources
+C:\Users\Lester\Documents\Proyectos\carga datos uma\cargadatosuma\obj\Debug\cargadatosuma.csproj.GenerateResource.Cache
+C:\Users\Lester\Documents\Proyectos\carga datos uma\cargadatosuma\obj\Debug\cargadatosuma.exe
+C:\Users\Lester\Documents\Proyectos\carga datos uma\cargadatosuma\obj\Debug\cargadatosuma.pdb
+D:\Proyectos\otros Proyectos\carga datos uma\cargadatosuma\bin\Debug\cargadatosuma.exe.config
+D:\Proyectos\otros Proyectos\carga datos uma\cargadatosuma\bin\Debug\cargadatosuma.exe
+D:\Proyectos\otros Proyectos\carga datos uma\cargadatosuma\bin\Debug\cargadatosuma.pdb
+D:\Proyectos\otros Proyectos\carga datos uma\cargadatosuma\obj\Debug\cargadatosuma.csprojAssemblyReference.cache
+D:\Proyectos\otros Proyectos\carga datos uma\cargadatosuma\obj\Debug\cargadatosuma.frmCargarEstudiante.resources
+D:\Proyectos\otros Proyectos\carga datos uma\cargadatosuma\obj\Debug\cargadatosuma.Properties.Resources.resources
+D:\Proyectos\otros Proyectos\carga datos uma\cargadatosuma\obj\Debug\cargadatosuma.csproj.GenerateResource.cache
+D:\Proyectos\otros Proyectos\carga datos uma\cargadatosuma\obj\Debug\cargadatosuma.csproj.CoreCompileInputs.cache
+D:\Proyectos\otros Proyectos\carga datos uma\cargadatosuma\obj\Debug\cargadatosuma.exe
+D:\Proyectos\otros Proyectos\carga datos uma\cargadatosuma\obj\Debug\cargadatosuma.pdb
